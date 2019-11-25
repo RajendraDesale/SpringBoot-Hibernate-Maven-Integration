@@ -1,5 +1,5 @@
 # SpringBoot-Hibernate-Maven-Integration
-Person Management CRUD Application Using Spring Boot MVC, Hibernate ORM Tool, Mavan and MySQL Database.  
+Person Management CRUD Application Using Spring Boot MVC, Hibernate ORM Tool, Maven and MySQL Database.  
 
 * Person Feature. 
 1. Add Person.
@@ -12,4 +12,4 @@ Person Management CRUD Application Using Spring Boot MVC, Hibernate ORM Tool, Ma
 2. Default Redirection from Index Page(Default Load Page).
 3. Hibernate Integration Using Annotation(MySQL Database).
 4. Follow MVC System Architecture Flow.
-5. Maven Dependancies Project for Dependancy Management.
+5. Maven Dependencies Project for Dependancy Management.
